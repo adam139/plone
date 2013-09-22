@@ -7,4 +7,4 @@
 *.egg-info
 *.pyo
 *.mo
-/src
+.project
