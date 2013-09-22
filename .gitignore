@@ -2,9 +2,13 @@
 /parts
 /develop-eggs
 /bin
+/.settings
 *.pyc
 *.egg
 *.egg-info
 *.pyo
 *.mo
 .project
+.mr.developer.cfg
+.installed.cfg
+.pydevproject
